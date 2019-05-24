@@ -19,7 +19,6 @@ class Game:
         else:
             print("User starts")
         while not state:
-            print(state)
             suc = 1
             while suc:
                 try:
